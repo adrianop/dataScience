@@ -9,3 +9,5 @@
 ### DER-SP: https://www.der.sp.gov.br/WebSite/Servicos/ConjuntoDados.aspx?tema=Ativos_Rodoviarios&conjunto=Radar
 
 ## Shapefiles: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
+
+## Shapefiles rodovias federais: https://servicos.dnit.gov.br/dnitcloud/index.php/s/oTpPRmYs5AAdiNr?path=%2FSNV%20Bases%20Geom%C3%A9tricas%20(2013-Atual)%20(SHP)
